@@ -1,0 +1,1 @@
+This file contains all of the excercises done on C sequential programming class. Their corresponding assignments are not available
